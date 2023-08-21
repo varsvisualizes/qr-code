@@ -22,7 +22,7 @@ Here's my take on the Frontend Mentor QR code component challenge! Check out the
 ### Links
 
 - Solution URL: [https://github.com/varsvisualizes/qr-code/tree/main]
-- Live Site URL: [https://your-live-site-url.com]
+- Live Site URL: [https://varsvisualizes.github.io/qr-code/]
 
 ## My process
 
