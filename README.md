@@ -48,5 +48,5 @@ That drop shadow kept playing tricks on my eyes! At first I didn't notice it, bu
 ## Author
 
 - Website - [Carmen Peterson](https://campsite.bio/varsvisualizes)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/varsvisualizes)
-- Twitter - [@yourusername](https://twitter.com/varsvisualizes)
+- Frontend Mentor - [@varsvisualizes](https://www.frontendmentor.io/profile/varsvisualizes)
+- Twitter - [@varsvisualizes](https://twitter.com/varsvisualizes)
