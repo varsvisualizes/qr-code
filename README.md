@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-Here's my take on the Frontend Mentor QR code component challenge! Check out the full challenge here, along with the rest of their site: (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+Here's my take on the Frontend Mentor QR code component challenge! Check out the full challenge here, along with the rest of their site: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ## Table of contents
 
